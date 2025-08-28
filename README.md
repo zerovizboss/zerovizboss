@@ -3,6 +3,7 @@
 - 🌱 I’m currently improving my Javascript development skills due to the growing demand for Front-End developers.
 - 💞️ I’m looking to collaborate on projects that will help me grow my diverse background as I'm consistently called on to consult in different arena's with multiple environments.
 - 📫 The best way to reach me is through <a href=https://linkedin.com/in/donny-zerovizboss-dedman/>Linkedin</a>
+- <a href=https://www.salesforce.com/trailblazer/zerovizboss/>Trailblazer Profile</a>
 
 <strong><em>Fun Times:</em></strong>
 When I'm not working on a project or doing development, I'm enjoying the outdoors, crafting my metal shop or rebuilding my project truck.  Development is just one small way I like to use my brain and keeps me sharp and current with the times, but I like creating things with my hands.  Another aspect of my life that I really take pride in is helping others through volunteering, I like to bring hope where there is none and I like to encourage people who are going through hard times.
